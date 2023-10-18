@@ -21,6 +21,9 @@ public class ProgramTUI5 {
 
 
     public static void main(String[] args) {
+		public doouble average2(double pvalor, double svalor) {
+   return (pvalor + svalor) / 2;
+}
     // The int of the valor
         double pvalor;
         double svalor;
